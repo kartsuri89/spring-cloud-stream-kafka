@@ -2,11 +2,11 @@
 
 #Strat Zookeeper server
 
-  zookeeper-server-start.bat D:\sandbox\kafka_2.13-3.1.0\config\zookeeper.properties
+  zookeeper-server-start.bat D:\sandbox\kafka_2.13-3.2.0\config\zookeeper.properties
 
 #Strat Kafka server
 
-  kafka-server-start.bat D:\sandbox\kafka_2.13-3.1.0\config\server.properties
+  kafka-server-start.bat D:\sandbox\kafka_2.13-3.2.0\config\server.properties
 
 #Create Topic
 
