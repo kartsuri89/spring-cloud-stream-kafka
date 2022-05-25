@@ -15,6 +15,10 @@
 #List down all available topics
 
   kafka-topics.bat --list --bootstrap-server localhost:9092
+  
+# Delete a specific Topic
+
+  kafka-topics.bat --delete --bootstrap-server localhost:9092 --topic kafka-impl
 
 #Produce a message
 
