@@ -26,4 +26,4 @@
 
 # Consume a message
 
-  kafka-console-consumer.bat --bootstrap-server localhost:9092 --topic kafka-impl
+  kafka-console-consumer.bat --bootstrap-server localhost:9092 --from-beginning --topic kafka-impl
